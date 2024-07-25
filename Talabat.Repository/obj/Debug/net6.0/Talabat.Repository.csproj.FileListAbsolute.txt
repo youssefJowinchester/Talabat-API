@@ -1,0 +1,15 @@
+C:\Users\U\Desktop\Talabat Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+C:\Users\U\Desktop\Talabat Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+C:\Users\U\Desktop\Talabat Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\U\Desktop\Talabat Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\U\Desktop\Talabat Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\U\Desktop\Talabat Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+C:\Users\U\Desktop\Talabat Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U\Desktop\Talabat Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+C:\Users\U\Desktop\Talabat Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+C:\Users\U\Desktop\Talabat Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+C:\Users\U\Desktop\Talabat Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+C:\Users\U\Desktop\Talabat Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+C:\Users\U\Desktop\Talabat Solution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+C:\Users\U\Desktop\Talabat Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\U\Desktop\Talabat Solution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll

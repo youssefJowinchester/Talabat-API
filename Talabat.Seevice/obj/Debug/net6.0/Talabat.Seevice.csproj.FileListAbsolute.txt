@@ -1,0 +1,17 @@
+C:\Users\U\Desktop\Talabat Solution\Talabat.Seevice\bin\Debug\net6.0\Talabat.Seevice.deps.json
+C:\Users\U\Desktop\Talabat Solution\Talabat.Seevice\bin\Debug\net6.0\Talabat.Seevice.dll
+C:\Users\U\Desktop\Talabat Solution\Talabat.Seevice\bin\Debug\net6.0\Talabat.Seevice.pdb
+C:\Users\U\Desktop\Talabat Solution\Talabat.Seevice\obj\Debug\net6.0\Talabat.Seevice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U\Desktop\Talabat Solution\Talabat.Seevice\obj\Debug\net6.0\Talabat.Seevice.AssemblyInfoInputs.cache
+C:\Users\U\Desktop\Talabat Solution\Talabat.Seevice\obj\Debug\net6.0\Talabat.Seevice.AssemblyInfo.cs
+C:\Users\U\Desktop\Talabat Solution\Talabat.Seevice\obj\Debug\net6.0\Talabat.Seevice.csproj.CoreCompileInputs.cache
+C:\Users\U\Desktop\Talabat Solution\Talabat.Seevice\obj\Debug\net6.0\Talabat.Seevice.dll
+C:\Users\U\Desktop\Talabat Solution\Talabat.Seevice\obj\Debug\net6.0\refint\Talabat.Seevice.dll
+C:\Users\U\Desktop\Talabat Solution\Talabat.Seevice\obj\Debug\net6.0\Talabat.Seevice.pdb
+C:\Users\U\Desktop\Talabat Solution\Talabat.Seevice\obj\Debug\net6.0\ref\Talabat.Seevice.dll
+C:\Users\U\Desktop\Talabat Solution\Talabat.Seevice\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\U\Desktop\Talabat Solution\Talabat.Seevice\bin\Debug\net6.0\Talabat.Repository.dll
+C:\Users\U\Desktop\Talabat Solution\Talabat.Seevice\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\U\Desktop\Talabat Solution\Talabat.Seevice\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\U\Desktop\Talabat Solution\Talabat.Seevice\obj\Debug\net6.0\Talabat.Seevice.csproj.AssemblyReference.cache
+C:\Users\U\Desktop\Talabat Solution\Talabat.Seevice\obj\Debug\net6.0\Talabat.Seevice.csproj.CopyComplete
